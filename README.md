@@ -43,6 +43,7 @@ Follow the instructions below
    ```sh
    npm run dev
    ```
+4. Set up .env file similar to [.env.example](.env.example)
    <br/>
  
 ## License
